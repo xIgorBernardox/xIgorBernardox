@@ -16,7 +16,7 @@
 <div> 
   <a href="https://www.instagram.com/xigorbernardox/?fbclid=IwAR1vU-Tn153u-NN3D5B4ohwk1mVPKDJs1hG0MlVEo22Tap0dCIILPWWqBPE" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/xIgorBernardox/" target_"blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target_"blank"></a>
-  <a href="https://discord.gg/817588506460684309" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <!--<a href="https://discord.gg/Igor Bernardo#8897" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> --> 
   <a href = "mailto:igorbernardo.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   <hr>
