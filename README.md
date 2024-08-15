@@ -55,7 +55,7 @@
 <br clear="both">
 
 <div align="center">
-  
+  <img src="https://raw.githubusercontent.com/xigorbernardox/xigorbernardox/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
