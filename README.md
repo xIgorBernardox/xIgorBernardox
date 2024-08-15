@@ -55,7 +55,7 @@
 <br clear="both">
 
 <div align="center">
-  ![snake animation](https://github.com/xigorbernardox/xigorbernardox/blob/output/github-contribution-grid-snake2.svg)
+  <img src="https://raw.githubusercontent.com/xigorbernardox/xigorbernardox/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
