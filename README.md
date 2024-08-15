@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/xigorbernardox/xigorbernardox/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/xigorbernardox/xigorbernardox/output/snake.svg" />
 
 ###
