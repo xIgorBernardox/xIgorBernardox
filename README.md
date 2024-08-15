@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/xigorbernardox/xigorbernardox/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/xigorbernardox/output/snake.svg" />
 
 ###
